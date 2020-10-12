@@ -1,0 +1,108 @@
+.nav-bar{
+	width: 100%;
+	background-color: #555;
+	overflow: auto;
+}
+
+.brand{
+	font-family: 'Lora', serif;
+	font-size: 1em;
+	text-align: center;
+	font-weight: bold;
+}
+
+.nav-bar a{
+	float: left;
+	text-align: center;
+	width: 20%;
+	padding: 12px 0;
+	transition: all 0.3s ease;
+	color: white;
+	font-size: 2em;
+}
+
+.active{
+	background-color: #4caf50;
+}
+
+.page-head{
+	font-family: 'Crimson Text', serif;
+	font-size: 5em;
+	text-align: center;
+	color: blue;
+	text-transform: uppercase;
+	padding: 10px 10px;
+}
+
+.page-head:hover{
+	text-shadow: 5px 5px 10px yellow;
+}
+
+.column{
+	box-shadow: 0 8x 8px 0 rgba(0, 0, 0, 0.2);
+	transition: 0.3s;
+	width: 30%;
+  	padding: 15px 15px;
+}
+
+img{
+	width: 100%;
+	padding: 12px 12px;
+	transition: all 0.3s ease;
+	/*font-size: 5em;*/
+}
+
+.profile-card{
+  padding-bottom: 5em;
+/*   paddin-right: 5em; */
+}
+
+.profile-card .column:hover{
+	box-shadow: 0 64px 64px 0 rgba(0,0,0,0.5);
+}
+
+.profile h3{
+	font-family: 'Playfair Display', serif;
+	font-size: 2.5em;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.profile p{
+	font-family: 'Lora', serif;
+	font-size: 2em;
+	text-align: center;
+/* 	text-transform: uppercase; */
+}
+
+.social-media{
+	display: block;
+	text-align: center;
+}
+
+.social-media a{
+	float: center;
+	text-align: center;
+	width: 20%;
+	padding: 12px 12px;
+	transition: all 0.3s ease;
+	font-size: 5em;
+}
+
+.fa-twitter{
+	color: #00aced;
+}
+
+.fa-linkedin{
+	color: #4875b4;
+}
+
+.fa-github{
+	color: grey;
+}
+
+footer{
+  font-size: 1em;
+  text-align: center;
+  font-weight: bold;
+}
