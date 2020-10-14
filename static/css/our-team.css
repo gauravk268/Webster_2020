@@ -1,11 +1,12 @@
 .nav-bar{
 	width: 100%;
-	background-color: #555;
+    background-color: #292826;
 	overflow: auto;
 }
 
 .brand{
 	font-family: 'Lora', serif;
+    color: #3c1a5b;
 	font-size: 1em;
 	text-align: center;
 	font-weight: bold;
@@ -17,19 +18,19 @@
 	width: 20%;
 	padding: 12px 0;
 	transition: all 0.3s ease;
-	color: white;
+    color: #f9d342;
 	font-size: 2em;
 }
 
 .active{
-	background-color: #4caf50;
+    background-color: #fff748;
 }
 
 .page-head{
 	font-family: 'Crimson Text', serif;
 	font-size: 5em;
 	text-align: center;
-	color: blue;
+    color: #3c1a5b;
 	text-transform: uppercase;
 	padding: 10px 10px;
 }
@@ -102,7 +103,10 @@ img{
 }
 
 footer{
-  font-size: 1em;
-  text-align: center;
-  font-weight: bold;
+	font-size: 1.25em;
+	text-align: center;
+	font-weight: bold;
+    background-color: #292826;
+    color: white;
+    font-family: serif;
 }
