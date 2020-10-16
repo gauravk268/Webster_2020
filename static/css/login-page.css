@@ -1,25 +1,25 @@
 .nav-bar{
-	width: 100%;
+    width: 100%;
     background-color: #292826;
-	overflow: auto;
+    overflow: auto;
 }
 
 .brand{
-	font-family: 'Lora', serif;
+    font-family: 'Lora', serif;
     color: #3c1a5b;
-	font-size: 1em;
-	text-align: center;
-	font-weight: bold;
+    font-size: 1em;
+    text-align: center;
+    font-weight: bold;
 }
 
 .nav-bar a{
-	float: left;
-	text-align: center;
-	width: 20%;
-	padding: 12px 0;
-	transition: all 0.3s ease;
+    float: left;
+    text-align: center;
+    width: 20%;
+    padding: 12px 0;
+    transition: all 0.3s ease;
     color: #f9d342;
-	font-size: 2em;
+    font-size: 2em;
 }
 
 .active{
@@ -27,16 +27,16 @@
 }
 
 .page-head{
-	font-family: 'Crimson Text', serif;
-	font-size: 5em;
-	text-align: center;
+    font-family: 'Crimson Text', serif;
+    font-size: 5em;
+    text-align: center;
     color: #3c1a5b;
-	text-transform: uppercase;
-	padding: 10px 10px;
+    text-transform: uppercase;
+    padding: 10px 10px;
 }
 
 .page-head:hover{
-	text-shadow: 5px 5px 10px yellow;
+    text-shadow: 5px 5px 10px yellow;
 }
 
 .login{
@@ -49,11 +49,14 @@
     background-color: #3c1a5b;
     color: #fff748;
     border: 2px solid black;
+    box-shadow: 0 8x 8px 0 rgba(0, 0, 0, 0.2);
 }
 
+.login:hover{
+    box-shadow: 0 64px 64px 0 rgba(0,0,0,0.5);
+}
 
 label{
-	font-family: sans;
     font-size: 1.5em;
     font-weight: bold;
 }
