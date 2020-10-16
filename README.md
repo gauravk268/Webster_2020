@@ -10,6 +10,6 @@ Github Repository for Webster event under Cyberquest of Avishkar 2020 @ MNNIT
 
 ## Completed pages preview
 
-(Our-Team Page) [./our-temp.html]<br>
-(Log-In Page) [./login-page.html]<br>
-(Sign-up Page) [./sign-up.html]
+* <a href="https://gauravk268.github.io/Webster_2020/our-team.html">Our-Team Page</a>
+*  <a href="https://gauravk268.github.io/Webster_2020/login-page.html">Log-In Page</a>
+* <a href="https://gauravk268.github.io/Webster_2020/sign-up.html">Sign-up Page</a>
