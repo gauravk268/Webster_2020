@@ -39,16 +39,16 @@
 	text-shadow: 5px 5px 10px yellow;
 }
 
-.login{
+.sign-panel{
     overflow: hidden;  
     margin: auto;  
     margin-bottom: 40px;
     border-radius: 15px;
-    padding: 20px 80px 0 80px;
+    padding: 20px 80px 0 80px; 
     box-shadow: 0 8x 8px 0 rgba(0, 0, 0, 0.2);
 }
 
-.login:hover{
+.sign-panel:hover{
     box-shadow: 0 64px 64px 0 rgba(0,0,0,0.5);
 }
 
